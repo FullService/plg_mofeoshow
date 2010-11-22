@@ -15,6 +15,7 @@
 	<languages>
 		<language tag="en-GB">en-GB.plg_content_morfeoshow.ini</language>
 		<language tag="fr-FR">fr-FR.plg_content_morfeoshow.ini</language>
-		<language tag="fr-FR">de-DE.plg_content_morfeoshow.ini</language>			
+		<language tag="fr-FR">de-DE.plg_content_morfeoshow.ini</language>
+		<language tag="pt-BR">pt-BR.plg_content_morfeoshow.ini</language>			
 	</languages>
 </install>
